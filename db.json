@@ -1,0 +1,47 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Halenur"
+    },
+    {
+      "id": 2,
+      "name": "Nuri"
+    },
+    {
+      "id": 3,
+      "name": "Ali"
+    },
+    {
+      "id": 4,
+      "name": "Buğra"
+    },
+    {
+      "id": "f3f4",
+      "name": "Chelsea Cole"
+    },
+    {
+      "id": "8981",
+      "name": "Tom Gibson"
+    }
+  ],
+  "albums": [
+    {
+      "id": "15",
+      "userId": 1,
+      "title": "Eskişehir"
+    },
+    {
+      "id": "760c",
+      "userId": 1,
+      "title": "Luxurious Bronze Keyboard"
+    }
+  ],
+  "photos": [
+    {
+      "id": "534c",
+      "albumId": "15",
+      "url": "https://loremflickr.com/150/150/abstract?lock=1113590228582400"
+    }
+  ]
+}
